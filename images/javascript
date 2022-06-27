@@ -1,0 +1,8 @@
+1. Create a variable to store the name given
+
+var name = prompt ("What is your Name");
+
+2. isolate the first letter from the rest and capitalise it
+a. isolate 
+
+3. greet the user with the new capitalised version of his Name
